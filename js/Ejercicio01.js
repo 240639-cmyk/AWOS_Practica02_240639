@@ -42,7 +42,7 @@ console.log("El valor actual de la constante miMatricula es: ", miMatricula);
 
 /* La palabra reservada LET en JavaScript nos permite declarar variables de una manrera muy similar a VAR, con la diferencia del alcance (SCOPE) de la misma, es decir aquellas variables declaradas con var tienen un alange global durante la ejecución y la let se limitan a funciones, ciclos o bloques de código , eliminando los valores almacenado una vez cumplen su función */
 
-var miFechaNacimiento = new Date("2006-03-05");
+var miFechaNacimiento = new Date("2005-07-25");
 
 function calcularEdad(fechaNacimiento)
 {
